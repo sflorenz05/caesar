@@ -1,1 +1,1 @@
-Educational Git Project. Create a vigenere cipher algorithm project.
+Educational Git Project. Create a crack cipher algorithm project.
